@@ -14079,5 +14079,35 @@
           "month": "",
           "day": null
         }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "name": "bob",
+        "username": "bob",
+        "password": "bob",
+        "email": "bob@bob.com",
+        "wishlist": [],
+        "following": [2,3]
+      },
+      {
+        "id": 2,
+        "name": "mary",
+        "username": "mary",
+        "password": "mary",
+        "email": "mary@mary.com",
+        "wishlist": [],
+        "following": [1,3]
+      },
+      {
+        "id": 3,
+        "name": "joe",
+        "username": "joe",
+        "password": "joe",
+        "email": "joe@joe.com",
+        "wishlist": [],
+        "following": [1,2]
+      }
+
     ]
 }
